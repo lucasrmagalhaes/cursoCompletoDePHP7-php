@@ -1,6 +1,10 @@
 [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
 ```
+CREATE SCHEMA `dbphp7` DEFAULT CHARACTER SET utf8 ;
+```
+
+```
 USE dbphp7;
 ```
 
