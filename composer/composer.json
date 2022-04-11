@@ -1,0 +1,20 @@
+{
+    "name": "lucas/composer",
+    "description": "Composer",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lucas\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Magalhães",
+            "email": "lucasdarosa.ti@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
